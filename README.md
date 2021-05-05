@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanekouna-a&label=Profile%20views&color=0e75b6&style=flat" alt="adnanekouna-a" /> </p>
 
-- 🌱 I’m currently learning **PyQt5**
+- 🌱 I’m currently learning **Bash**
 
 - 📫 How to reach me **adnanekouna.a@gmail.com**
 
