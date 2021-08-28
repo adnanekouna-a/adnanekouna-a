@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanekouna-a&label=Profile%20views&color=0e75b6&style=flat" alt="adnanekouna-a" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently following the **CS50's Introduction to Computer Science** course
 
 - 📫 How to reach me **adnanekouna.a@gmail.com**
 
