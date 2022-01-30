@@ -1,7 +1,7 @@
 <h1 align="center">Yo 👋, I'm Adnane Kouna</h1>
 <h3 align="center">A programming demon/nerd.</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **adnanekouna.a@gmail.com**
 
