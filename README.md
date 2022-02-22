@@ -1,6 +1,5 @@
 # 💫About Me :
-My name is Adnane, I'm an 18 years old engineering school dropout.
-I'm a developer. (Jack of all (well many) trades. Master of none.)
+My name is Adnane, I'm an 18 years old engineering school dropout and I'm a Jack of all (well many) trades, Master of none.
 - The language I'm most familiar with is **Python**.
 - The project I'm proud of working on the most is [Blackjack](https://github.com/adnanekouna-a/blackjack).
 - I'm currently learning **Computer Networking**.
