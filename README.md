@@ -1,9 +1,11 @@
 # 💫About Me :
-My name is Adnane, I'm an 18 years old engineering school dropout and I'm a Jack of all (well many) trades, Master of none.
+My name is Adnane, I'm an 18 years old self-taught Developer and Technical Writer. 
 - The language I'm most familiar with is **Python**.
 - The project I'm proud of working on the most is [Blackjack](https://github.com/adnanekouna-a/blackjack).
-- I'm currently learning **Computer Networking**.
+- I'm currently learning **Web Development**.
 - My goal is to build a successful startup in the future.
+- You can read my latest blog article here : [How to create a Python virtual environment using virtualenv
+](https://techdemon.hashnode.dev/how-to-create-a-python-virtual-environment)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adnane-kouna-1652a3188) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/adnanekouna) 
