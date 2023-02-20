@@ -1,5 +1,5 @@
 # 💫About Me :
-My name is Adnane, I'm an 18 years old self-taught Developer and Technical Writer. 
+My name is Adnane, I'm an 19 years old self-taught Developer and Technical Writer. 
 - The language I'm most familiar with is **Python**.
 - The project I'm proud of working on the most is [Blackjack](https://github.com/adnanekouna-a/blackjack).
 - I'm currently learning **Web Development**.
